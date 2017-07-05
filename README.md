@@ -1,4 +1,4 @@
-# Vortigern
+# taskert
 [![Build Status](https://travis-ci.org/barbar/vortigern.svg?branch=master)](https://travis-ci.org/barbar/vortigern)
 [![Dependency Status](https://david-dm.org/barbar/vortigern.svg)]()
 [![devDependency Status](https://david-dm.org/barbar/vortigern/dev-status.svg)]()
@@ -9,7 +9,7 @@ ___
 
 <img src="https://barbaruploads.s3.amazonaws.com/bicoz/vortigern.png" width="100%" />
 
-**Vortigern** is our opinionated boilerplate for crafting universal web applications by using modern technologies like TypeScript, React and Redux.
+Using **Vortigern** boilerplate for taskert
 
 [![TypeScript](https://barbaruploads.s3.amazonaws.com/bicoz/typescript.png)](https://www.typescriptlang.org/) 
 [![React](https://barbaruploads.s3.amazonaws.com/bicoz/react.png)](https://github.com/facebook/react) 
@@ -17,7 +17,7 @@ ___
 
 
 ## Libraries
-Vortigern uses the following libraries and tools:
+Boilerplate uses the following libraries and tools:
 
 #### Core
 - [TypeScript](https://www.typescriptlang.org/)
@@ -177,7 +177,3 @@ ___
 <a target="_blank" href="https://barbar.digital/?ref=vortigern-barbar-logo"><img src="https://barbaruploads.s3.amazonaws.com/bicoz/logo2x.png" height="55px" /></a>
 
 We help startups start and stay started by helping them plan, strategize, fund and execute their vision. 
-
-You can contact us at [hey@barbar.digital](mailto:hey@barbar.digital)
-
-Be sure to check out available [jobs at Barbar](https://github.com/barbar/hr).
